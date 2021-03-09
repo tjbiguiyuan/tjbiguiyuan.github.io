@@ -24,9 +24,9 @@ baseurl: ''
 #tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
-menu:
-  - title: 首页
-    url: /posts/2021/03/09/list.html
+#menu:
+#  - title: 首页
+#    url: /posts/2021/03/09/list.html
 #  - title: 归类
 #    url: /pages/categories.html
 #  - title: 搜索
